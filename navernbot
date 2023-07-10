@@ -41,7 +41,7 @@ end
 --[[ end configs, don't edit this especially if you have no idea what Lua is lmao ]]--
 
 local semoofbotversion = "v0.2.9 Public Beta Release"
-local semoofbotchangelogs = "Added a few commands!"
+local lunarbotchangelogs = "Added a few commands!"
 
 local gameData = game:GetService("MarketplaceService"):GetProductInfo(game.PlaceId)
 local status = nil
